@@ -1,0 +1,101 @@
+
+# =============== Unity Specific ===============
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio/MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider generated files
+.idea/
+*.sln.iml
+
+# Other generated files
+*.stackdump
+*.log
+*.swp
+.DS_Store
+*.tmp
+*.bak
+*.old
+Thumbs.db
+ehthumbs.db
+
+# Auto-generated Plugin meta files
+Assets/Plugins/Editor/*.meta
+
+# Packed Unity files
+*.unitypackage
+
+# Crash logs
+sysinfo.txt
+
+# =============== Large Folders ===============
+# Exclude Vuforia Engine packages (if used)
+Packages/com.ptc.vuforia.engine-*
+
+# Cache files
+Library/
+
+# Exclude all build artifacts
+[Bb]uilds/
+Build/
+
+# =============== Extensions ===============
+# Mac system files
+*.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Logs
+*.log
+
+# =============== Environment Settings ===============
+# IDE preferences
+.vscode/
+.idea/
+.vs/
+
+# JetBrains Rider settings
+.idea/
+
+# Operating System settings
+*.swp
+*.lock
+
+# Unity Collaborate
+.collab/
+
+# =============== Git Large File Storage (Optional) ===============
+# If using Git LFS, track large files:
+# Uncomment the line below and use Git LFS for large binary files like assets.
+# *.psd
+# *.fbx
+# *.mp4
+# *.mov
+# *.png
+# *.jpg
+
+
